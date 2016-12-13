@@ -1,0 +1,2 @@
+D:\Workspace VisualStudio\AlugueServiceMobile\AlugueServiceMobile\AlugueServiceMobile.WinPhone\AlugueServiceMobile.WinPhone.csproj;neutral
+D:\Workspace VisualStudio\AlugueServiceMobile\AlugueServiceMobile\AlugueServiceMobile\AlugueServiceMobile.csproj;neutral
